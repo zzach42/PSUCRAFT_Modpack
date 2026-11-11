@@ -1,0 +1,13 @@
+{
+  "formatVersion": 1,
+  "sequence": 1,
+  "validUntil": "2027-02-09T16:05:11.591Z",
+  "keys": [
+    {
+      "id": "9cb7696a650537fe279d5f7d82b6c4b7",
+      "githubLogin": "zzach42",
+      "publicKey": "MCowBQYDK2VwAyEAuT779HNoWFDV5/2kkL73lr8cMfpIPyL7VUzMydcC6jg=",
+      "status": "active"
+    }
+  ]
+}
