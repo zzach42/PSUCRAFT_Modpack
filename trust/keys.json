@@ -1,12 +1,18 @@
 {
   "formatVersion": 1,
-  "sequence": 1,
-  "validUntil": "2027-02-09T16:05:11.591Z",
+  "sequence": 2,
+  "validUntil": "2027-02-09T16:45:05.371Z",
   "keys": [
     {
       "id": "9cb7696a650537fe279d5f7d82b6c4b7",
       "githubLogin": "zzach42",
       "publicKey": "MCowBQYDK2VwAyEAuT779HNoWFDV5/2kkL73lr8cMfpIPyL7VUzMydcC6jg=",
+      "status": "active"
+    },
+    {
+      "id": "db5fb9cd21f671a20ab589b8af24ea25",
+      "githubLogin": "c0c0s1k",
+      "publicKey": "MCowBQYDK2VwAyEAKrlDX/+msvSEKG45braNlINimM5ryWHN+O1J2+AmzUI=",
       "status": "active"
     }
   ]
