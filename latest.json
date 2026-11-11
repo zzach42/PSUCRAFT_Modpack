@@ -1,8 +1,8 @@
 {
   "formatVersion": 1,
-  "modpackVersion": "1.0.1",
-  "manifestUrl": "https://github.com/zzach42/PSUCRAFT_Modpack/releases/download/modpack-v1.0.1/manifest-1.0.1.json",
-  "signatureUrl": "https://github.com/zzach42/PSUCRAFT_Modpack/releases/download/modpack-v1.0.1/manifest-1.0.1.sig",
-  "manifestSha256": "4e397bd6b04d0bcd4e55e3fc8601f16c01adb8e297f9dc9a436201e11f4319ab",
-  "signerKeyId": "9cb7696a650537fe279d5f7d82b6c4b7"
+  "modpackVersion": "1.0.3",
+  "manifestUrl": "https://github.com/zzach42/PSUCRAFT_Modpack/releases/download/modpack-v1.0.3/manifest-1.0.3.json",
+  "signatureUrl": "https://github.com/zzach42/PSUCRAFT_Modpack/releases/download/modpack-v1.0.3/manifest-1.0.3.sig",
+  "manifestSha256": "bb25e1ff188d29a5b433b0ff9a3f7a20049f6b2d4fd9eddcec345930cf4ae1cf",
+  "signerKeyId": "db5fb9cd21f671a20ab589b8af24ea25"
 }
