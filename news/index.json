@@ -1,11 +1,11 @@
 {
   "formatVersion": 1,
-  "sequence": 1,
+  "sequence": 2,
   "signerKeyId": "9cb7696a650537fe279d5f7d82b6c4b7",
   "posts": [
     {
       "id": "n-49cce976-4f65-406f-99d6-b5c74ae05503",
-      "title": "Тест новостей",
+      "title": "Тест ыва",
       "summary": "Тестовое сообщение в лаунчер",
       "body": "бебебебеб",
       "image": {
@@ -16,10 +16,10 @@
       "date": "2026-11-12T16:22:30.934Z",
       "author": "zzach42",
       "createdAt": "2026-11-12T16:22:30.934Z",
-      "updatedAt": "2026-11-12T16:22:30.934Z",
+      "updatedAt": "2026-11-12T16:41:16.983Z",
       "featured": true,
       "status": "published",
-      "revision": 1
+      "revision": 2
     }
   ]
 }
