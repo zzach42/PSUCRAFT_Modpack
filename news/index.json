@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "sequence": 6,
+  "sequence": 7,
   "signerKeyId": "9cb7696a650537fe279d5f7d82b6c4b7",
   "posts": [
     {
@@ -52,10 +52,10 @@
       "date": "2026-11-12T17:37:50.493Z",
       "author": "zzach42",
       "createdAt": "2026-11-12T17:37:50.493Z",
-      "updatedAt": "2026-11-12T17:37:50.493Z",
+      "updatedAt": "2026-11-12T17:38:18.305Z",
       "featured": false,
-      "status": "draft",
-      "revision": 1
+      "status": "published",
+      "revision": 2
     }
   ]
 }
