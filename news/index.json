@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "sequence": 5,
+  "sequence": 6,
   "signerKeyId": "9cb7696a650537fe279d5f7d82b6c4b7",
   "posts": [
     {
@@ -38,6 +38,24 @@
       "featured": false,
       "status": "deleted",
       "revision": 2
+    },
+    {
+      "id": "n-4735840c-7e7e-43ba-91c0-5b2409debf40",
+      "title": "Лаунчер готов",
+      "summary": "короче я все сделал",
+      "body": "Все готово, бета тестируйте и не забудьте зайти во вкладку о нас посмотреть моем видео в 8к качестве",
+      "image": {
+        "path": "news/images/n-4735840c-7e7e-43ba-91c0-5b2409debf40-63f8faeca6c8206e48d23a53030ab0081447b2c176acbf57c16e97dd9ee00c09.webp",
+        "sha256": "63f8faeca6c8206e48d23a53030ab0081447b2c176acbf57c16e97dd9ee00c09",
+        "size": 19232
+      },
+      "date": "2026-11-12T17:37:50.493Z",
+      "author": "zzach42",
+      "createdAt": "2026-11-12T17:37:50.493Z",
+      "updatedAt": "2026-11-12T17:37:50.493Z",
+      "featured": false,
+      "status": "draft",
+      "revision": 1
     }
   ]
 }
