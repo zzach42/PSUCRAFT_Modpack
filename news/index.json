@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "sequence": 3,
+  "sequence": 4,
   "signerKeyId": "9cb7696a650537fe279d5f7d82b6c4b7",
   "posts": [
     {
@@ -20,6 +20,24 @@
       "featured": false,
       "status": "deleted",
       "revision": 3
+    },
+    {
+      "id": "n-888ef4d8-1210-4ba1-a7bf-8cdc3d0b7236",
+      "title": "Вот и готов наш лаунчер!",
+      "summary": "ура",
+      "body": "Наконец, завершилась разработка основного функционала нашего лаунчера, остались лишь косметические улучшения и официальный анонс на сайте!",
+      "image": {
+        "path": "news/images/n-888ef4d8-1210-4ba1-a7bf-8cdc3d0b7236-63f8faeca6c8206e48d23a53030ab0081447b2c176acbf57c16e97dd9ee00c09.webp",
+        "sha256": "63f8faeca6c8206e48d23a53030ab0081447b2c176acbf57c16e97dd9ee00c09",
+        "size": 19232
+      },
+      "date": "2026-11-12T16:46:19.525Z",
+      "author": "zzach42",
+      "createdAt": "2026-11-12T16:46:19.525Z",
+      "updatedAt": "2026-11-12T16:46:19.525Z",
+      "featured": true,
+      "status": "published",
+      "revision": 1
     }
   ]
 }
